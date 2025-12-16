@@ -2,8 +2,8 @@
 
 ##  Project overview
 
-This project predicts Gene Ontology (GO) terms for novel proteins using protein language models.
-Used ESM2 (150M params) to generate embeddings, then trained a neural network classifier to perform multi-label biological function prediction.
+This project predicts Gene Ontology (GO) terms for proteins using protein language models.
+Used ESM2 (650M params) to generate embeddings, then trained a neural network classifier to perform multi-label biological function prediction.
 
 ##  How to reproduce locally
 
