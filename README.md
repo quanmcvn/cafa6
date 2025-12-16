@@ -15,3 +15,7 @@ pip install -r requirements.txt
 ```
 
 Run notebook
+
+## Credit
+
+Credit to `https://github.com/blazinbanana/cafa6` for data handling code (extracting zip, loading data, formatting data to submit). I expanded upon their simple logistic regression classifier by using neural network classifier.
